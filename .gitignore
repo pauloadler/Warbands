@@ -1,0 +1,9 @@
+# Unreal Engine generated files
+[Bb]inaries/
+[Ii]ntermediate/
+[Ss]aved/
+DerivedDataCache/
+
+# IDE-generated files
+.vs/
+.idea/
