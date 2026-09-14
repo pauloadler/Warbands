@@ -3,6 +3,9 @@
 	"EngineAssociation": "{22AB3451-4845-606F-8603-318FAF5D4DAA}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{ "Name": "Warbands", "Type": "Runtime", "LoadingPhase": "Default" }
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
